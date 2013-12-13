@@ -1,0 +1,8 @@
+{
+  "name": "hackathon-absinth",
+  "version": "0.0.0",
+  "dependencies": {
+    "themproject": "2.0.0-beta"
+  },
+  "devDependencies": {}
+}
