@@ -7,3 +7,16 @@ app/bower_components
 test/bower_components/
 .idea/
 .DS_Store
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+npm-debug.log
